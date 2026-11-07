@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Student;Just+Another+Fella" />
 </p>
 
+## Koi
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
